@@ -1,0 +1,219 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #eaeaea;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+/* width */
+::-webkit-scrollbar {
+ height: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: white;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #666666;
+  width:10px;
+}
+
+.meni{
+	position:absolute;
+	padding:30px;
+	width:100%;
+}
+
+a {
+	color:#666666;
+	text-decoration: none;
+}
+
+.meni p {
+	font-family: 'arial', slab-serif;
+	font-size:18px;
+	color: #666666;
+}
+
+
+.glavno img,svg {
+	position: absolute;
+	height:90%;
+	padding: 30px;
+}
+
+.poreklo img {
+	position: absolute;
+	height:90%;
+	padding: 30px;
+}
+
+.tekst {
+	width:70%;
+	margin:auto;
+}
+
+.glavno {
+	width:70%;
+	margin:auto;
+}
+
+
+.velicina{
+	width:89%;
+	margin-left:5%;
+	
+	overflow-x: scroll;
+}
+
+.velicina img {
+	height:90%;
+	
+}
+
+#iks {
+	width:20px;
+	right:70px;
+	top:-40%;
+}
+
+#slike{
+	filter: blur(50px);
+	opacity:0.3;
+}
+
+#slike:hover{
+	filter: blur(0px);
+	opacity:1;
+	transition:0.5s;
+}
+
+.rad1:hover {
+	opacity:0;
+}
+
+.rad2:hover {
+	opacity:0;
+}
+
+
+.rad3:hover {
+	opacity:0;
+}
+
+.rad4:hover {
+	opacity:0;
+}
+
+.rad5:hover {
+	opacity:0;
+}
+
+.rad6:hover {
+	opacity:0;
+}
+
+.rad7:hover {
+	opacity:0;
+}
+
+.rad8:hover {
+	opacity:0;
+}
+
+.rad9:hover {
+	opacity:0;
+}
+
+.rad10:hover {
+	opacity:0;
+}
+
+.rad11:hover {
+	opacity:0;
+}
+
+.rad12:hover {
+	opacity:0;
+}
+
+.rad13:hover {
+	opacity:0;
+}
+
+.rad14:hover {
+	opacity:0;
+}
+
+.rad15:hover {
+	opacity:0;
+}
+
+.rad16:hover {
+	opacity:0;
+}
+
+.rad17:hover {
+	opacity:0;
+}
+
+.rad18:hover {
+	opacity:0;
+}
+
+.rad19:hover {
+	opacity:0;
+}
+
+.rad20:hover {
+	opacity:0;
+}
+
+.rad21:hover {
+	opacity:0;
+}
+
+.rad22:hover {
+	opacity:0;
+}
+
+.rad23:hover {
+	opacity:0;
+}
+
+.rad24:hover {
+	opacity:0;
+}
+
+.rad25:hover {
+	opacity:0;
+}
+
+.rad26:hover {
+	opacity:0;
+}
+
+.rad27:hover {
+	opacity:0;
+}
+
+.rad28:hover {
+	opacity:0;
+}
+
+.rad29:hover {
+	opacity:0;
+}
+
+.rad30:hover {
+	opacity:0;
+}
